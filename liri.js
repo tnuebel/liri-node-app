@@ -14,7 +14,7 @@ var Spotify = require('node-spotify-api');
 
 var request = require('request');
 
-// reading file system:
+// reading file system.
 var fs = require("fs");
 
 //making constructive objects:
