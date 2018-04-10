@@ -1,7 +1,8 @@
 {
-  "name": "liri-node-app",
+  "name": "liribot",
   "version": "1.0.0",
-  "main": "keys.js",
+  "description": "",
+  "main": "liri.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -9,14 +10,12 @@
     "type": "git",
     "url": "git+https://github.com/tnuebel/liri-node-app.git"
   },
-  "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/tnuebel/liri-node-app/issues"
   },
   "homepage": "https://github.com/tnuebel/liri-node-app#readme",
-  "description": "",
   "dependencies": {
     "dotenv": "^5.0.1",
     "node-spotify-api": "^1.0.7",
